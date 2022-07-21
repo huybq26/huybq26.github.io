@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.css": "/static/css/main.096520fb.css",
+    "main.js": "/static/js/main.df1b55d9.js",
+    "static/media/crystaldb.png": "/static/media/crystaldb.acc2741307a9d137405f.png",
+    "static/media/fuse2.png": "/static/media/fuse2.15865f54d81110ffa42d.png",
+    "static/media/solana.png": "/static/media/solana.688ceb08babdc9aba709.png",
+    "static/media/snake.gif": "/static/media/snake.23e064198244bd64a800.gif",
+    "static/media/priv2x.gif": "/static/media/priv2x.db713730749c43566a8b.gif",
+    "static/media/recipe.png": "/static/media/recipe.b90665f74d88f023667d.png",
+    "static/media/source.png": "/static/media/source.176cf3414e4a76392366.png",
+    "static/media/scamguard2.png": "/static/media/scamguard2.146170bd459f5c0dc3d5.png",
+    "static/media/ReportApp.png": "/static/media/ReportApp.17f35782b77f37a0ea26.png",
+    "static/media/CoffeeStore.png": "/static/media/CoffeeStore.fe2392bac5e3d996aee4.png",
+    "static/media/me.jpg": "/static/media/me.8c8bc151b45d4a9db148.jpg",
+    "static/media/cv.pdf": "/static/media/cv.576d18ff54334ffab819.pdf",
+    "static/media/CulturalDiffusion.png": "/static/media/CulturalDiffusion.19d9b0a6b4c55a1807da.png",
+    "static/media/bns.png": "/static/media/bns.ac983148ba46f966a9bb.png",
+    "index.html": "/index.html",
+    "main.096520fb.css.map": "/static/css/main.096520fb.css.map",
+    "main.df1b55d9.js.map": "/static/js/main.df1b55d9.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.096520fb.css",
+    "static/js/main.df1b55d9.js"
+  ]
+}
