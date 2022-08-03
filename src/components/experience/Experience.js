@@ -32,7 +32,8 @@ function Experience() {
 					</b>
 
 					<p>
-						Specialisation in Computer Engineering. <br /> Current GPA: 4.74
+						Specialisation in Computer Engineering. <br /> Current GPA: 4.74/5.0
+						(First Class Honours)
 					</p>
 				</VerticalTimelineElement>
 				<VerticalTimelineElement
